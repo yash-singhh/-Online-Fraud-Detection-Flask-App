@@ -4,6 +4,8 @@ A Flask-based web application that predicts whether a financial transaction is f
 
 ---
 
+for Dataset: https://www.kaggle.com/datasets/yashajaysingh/fraud-detection
+
 ## ✨ Features
 - User-friendly web UI
 - Form-based input for transaction details
